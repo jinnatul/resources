@@ -420,6 +420,40 @@
       ],
       "NumInstances": 133,
       "Modalities": "CT"
+    },
+    {
+      "StudyInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.298806137288633453246975630179",
+      "StudyDate": "20000101",
+      "StudyTime": "",
+      "PatientName": "",
+      "PatientID": "LIDC-IDRI-0002",
+      "AccessionNumber": "",
+      "PatientAge": "",
+      "PatientSex": "",
+      "series": [
+        {
+          "SeriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.179049373636438705059720603192",
+          "SeriesNumber": 3000566,
+          "Modality": "CT",
+          "SliceThickness": 2.5,
+          "instances": [
+            {
+              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-005.dcm"
+            },
+            {
+              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-006.dcm"
+            },
+            {
+              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-007.dcm"
+            },
+            {
+              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-008.dcm"
+            }
+          ]
+        }
+      ],
+      "NumInstances": 133,
+      "Modalities": "CT"
     }
   ]
 }
